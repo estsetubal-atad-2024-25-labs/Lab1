@@ -2,7 +2,7 @@
 
 ## Lab 1 - Introdução à Linguagem C
 
-Irá praticar a sintaxe da linguagem C e simples algoritmia utilizando a plataforma *Code Wars*. Em cada exercício será pedido para implementar uma função que resolve um pequeno problema. Por trás existem um conjunto de **testes unitários** que testam a sua solução. O objetivo é ultrapassar com sucesso cada um desses desafios.
+Irás praticar a sintaxe da linguagem C e simples algoritmia utilizando a plataforma *Code Wars*. Em cada exercício será pedido para implementares uma função que resolve um pequeno problema. Por trás existem um conjunto de **testes unitários** que testam a tua solução. O objetivo é ultrapassares com sucesso cada um desses desafios.
 
 ### Tutorial
 
