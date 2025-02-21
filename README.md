@@ -51,7 +51,7 @@ Agora, a tua conta no GitHub está pronta! 🚀
 
 5. **Criar o perfil no CodeWars**  
    - Se for o primeiro acesso, o CodeWars pode pedir que escolhas uma linguagem de programação favorita.  
-   - Escolhe **Java**, ou qualquer outra que prefiras.  
+   - Escolhe **C** e qualquer outra que prefiras.  
 
 Agora estás pronto para resolver desafios no CodeWars usando a tua conta do GitHub! 🎯🔥  
 
